@@ -1,0 +1,48 @@
+header{
+    background-image: url(../../images/imgheader.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.bg-banner{
+    background-image: url(../../images/banner-nav.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 120%;    
+}
+.imgnav{
+    width: 100px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 10px black;
+}
+
+li{
+    border-radius: 2rem;
+    border-style: solid;
+    color:rgb(247, 244, 244);
+    background: rgb(20, 27, 65);
+}
+
+li:hover{
+    background-color: rgb(102, 26, 223);
+}
+
+.img-offer{
+    border-radius: 30px;
+    box-shadow: 4px 4px 10px black;
+}
+
+.titulo {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    padding: 1%;
+    border-radius: 10px;
+  }
+
+.precio-after{
+    color: red;
+    text-decoration:line-through;
+}
+.precio-now{
+    color: brow;
+    font-style: italic;
+}
